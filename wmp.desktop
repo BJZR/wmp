@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=WMP
+Comment=Window Manager Personal - Minimalista y eficiente
+Exec=wmp
+Type=XSession
+DesktopNames=WMP
